@@ -7,7 +7,8 @@ You may
 - Modify code for private use, only with proper crediting, and explicitly stating the original source.
 - Copy sections or the entirety of the code for non-commercial private use, only with proper crediting
 - Put the loadstrings into other scripts you may be working with
+- Distribute reasonably modified versions of my script, only for free, with proper crediting and the original source stated.
 
 You may NOT do the following unless with my explicit agreement
-- Sell or distribute any of these scripts
+- Sell any of these scripts
 - Profit off it via linkvertised links on youtube videos, nor make any money off my work
